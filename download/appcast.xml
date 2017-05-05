@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>SpaceLauncher</title>
+<item>
+<title>1.0</title>
+<pubDate>Sat, 06 May 2017 09:13:45 +1000</pubDate>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://spacelauncherapp.com/download/SpaceLauncher.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="4147194" type="application/octet-stream" sparkle:dsaSignature="MCwCFGwu+5l3gu8EKqMKssqmaR6rMv0DAhQUhGxsi9/cdZQNtyvVuFfHtbQ0ZA=="/>
+</item>
+</channel></rss>
