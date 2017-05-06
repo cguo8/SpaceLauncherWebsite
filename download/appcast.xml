@@ -5,4 +5,11 @@
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
 <enclosure url="https://spacelauncherapp.com/download/SpaceLauncher.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="4147194" type="application/octet-stream" sparkle:dsaSignature="MCwCFGwu+5l3gu8EKqMKssqmaR6rMv0DAhQUhGxsi9/cdZQNtyvVuFfHtbQ0ZA=="/>
 </item>
+<item>
+<title>1.0.1</title>
+<pubDate>Sat, 06 May 2017 17:18:01 +1000</pubDate>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://spacelauncherapp.com/download/SpaceLauncher.zip" sparkle:version="2" sparkle:shortVersionString="1.0.1" length="4175197" type="application/octet-stream" sparkle:dsaSignature="MC0CFEFfysWnM5yAzkeYw2UpJR3Gm7LwAhUAiQdwa939vslD7EzKbraxJfa2yMU="/>
+</item>
+
 </channel></rss>
