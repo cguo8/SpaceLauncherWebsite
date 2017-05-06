@@ -6,7 +6,7 @@ body {
 }
 
 body {
-  font-family: "Helvetica", "Arial", sans-serif;
+  font-family: "Inconsolata", "Helvetica", "Arial", sans-serif;
 }
 
 body {
@@ -62,14 +62,22 @@ pre {
   border-left: 2px solid #69c;
 }
 
-body {
-  font-family: "Inconsolata", "Helvetica", "Arial", sans-serif;
-}
-
 img {
   max-width: 100%;
 }
 
 img#hint {
   width: 480px;
+}
+
+.lighttext {
+    color: #aaa;
+}
+
+h2 {
+	font-size: 1.2em;
+}
+
+#description {
+	font-size: 1.1em;
 }
