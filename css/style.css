@@ -70,6 +70,14 @@ img#hint {
   width: 480px;
 }
 
+#logo {
+  vertical-align: bottom;
+}
+
+#for_macos {
+  display: inline-block;
+}
+
 .lighttext {
   color: #aaa;
   font-size: 0.7em;
