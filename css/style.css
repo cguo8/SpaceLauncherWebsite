@@ -71,14 +71,21 @@ img#hint {
 }
 
 .lighttext {
-    color: #aaa;
-    font-size: 0.7em;
+  color: #aaa;
+  font-size: 0.7em;
 }
 
 h2 {
-	font-size: 1.2em;
+  font-size: 1.2em;
 }
 
 #description {
-	font-size: 1.1em;
+  font-size: 1.1em;
+}
+
+#system_requirement {
+  margin-bottom: 23px;
+  font-size: 12px;
+  line-height: 1.2;
+  color: #777
 }
