@@ -75,12 +75,12 @@ img#hint {
 }
 
 #for_macos {
+  font-size: 0.7em;
   display: inline-block;
 }
 
 .lighttext {
   color: #aaa;
-  font-size: 0.7em;
 }
 
 h2 {
@@ -96,4 +96,8 @@ h2 {
   font-size: 12px;
   line-height: 1.2;
   color: #777
+}
+
+form {
+  max-width: 30em;
 }
