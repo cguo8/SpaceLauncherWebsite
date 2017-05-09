@@ -71,6 +71,8 @@ img#hint {
 }
 
 #logo {
+  width: 64px;
+  height: 64px;
   vertical-align: bottom;
 }
 
@@ -100,4 +102,8 @@ h2 {
 
 form {
   max-width: 30em;
+}
+
+.image_link {
+  text-decoration: none;
 }
