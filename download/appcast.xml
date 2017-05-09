@@ -1,50 +1,11 @@
 <?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>SpaceLauncher</title>
 <item>
 <title>1.0</title>
-<pubDate>Sat, 06 May 2017 09:13:45 +1000</pubDate>
+<pubDate>Tue, 09 May 2017 22:24:17 +1000</pubDate>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://spacelauncherapp.com/download/SpaceLauncher.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="4147194" type="application/octet-stream" sparkle:dsaSignature="MCwCFGwu+5l3gu8EKqMKssqmaR6rMv0DAhQUhGxsi9/cdZQNtyvVuFfHtbQ0ZA=="/>
+<sparkle:releaseNotesLink>
+    https://spacelauncherapp.com/changelog.html
+</sparkle:releaseNotesLink>
+<enclosure url="https://spacelauncherapp.com/download/SpaceLauncher.zip" sparkle:version="8" sparkle:shortVersionString="1.0" length="4654411" type="application/octet-stream" sparkle:dsaSignature="MC0CFFhofoj7uxN+kLEdj681SWe2ypZ6AhUAmGH/fuF2F+hpIWu7to49h+MO/kU="/>
 </item>
-<item>
-<title>1.0.1</title>
-<pubDate>Sat, 06 May 2017 17:18:01 +1000</pubDate>
-<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://spacelauncherapp.com/download/SpaceLauncher.zip" sparkle:version="2" sparkle:shortVersionString="1.0.1" length="4175197" type="application/octet-stream" sparkle:dsaSignature="MC0CFEFfysWnM5yAzkeYw2UpJR3Gm7LwAhUAiQdwa939vslD7EzKbraxJfa2yMU="/>
-</item>
-<item>
-<title>1.0.2</title>
-<pubDate>Sat, 06 May 2017 21:15:04 +1000</pubDate>
-<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://spacelauncherapp.com/download/SpaceLauncher.zip" sparkle:version="3" sparkle:shortVersionString="1.0.2" length="4183090" type="application/octet-stream" sparkle:dsaSignature="MCwCFFHLDd9kKGC6xY0qmSEil7cPlBytAhRSCb+CUM4WzKswN2HBnk0qkC/XPg=="/>
-</item>
-<item>
-<title>1.0.3</title>
-<pubDate>Sat, 06 May 2017 23:43:42 +1000</pubDate>
-<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://spacelauncherapp.com/download/SpaceLauncher.zip" sparkle:version="4" sparkle:shortVersionString="1.0.3" length="4181418" type="application/octet-stream" sparkle:dsaSignature="MC0CFDFbS1/c/KsD3DpYocuMO2ICZ6rgAhUAlHl+ZsxEVPzA739DJWt54jTbnlA="/>
-</item>
-<item>
-<title>1.0.4</title>
-<pubDate>Sun, 07 May 2017 10:44:38 +1000</pubDate>
-<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://spacelauncherapp.com/download/SpaceLauncher.zip" sparkle:version="5" sparkle:shortVersionString="1.0.4" length="4188143" type="application/octet-stream" sparkle:dsaSignature="MCwCFDj0Fu3NRsY+1HZPie2I+LxpyOsuAhQaIGMQJ7SdeuHPzEfpNstAR0MJXQ=="/>
-</item>
-<item>
-<title>1.0.5</title>
-<pubDate>Mon, 08 May 2017 19:00:22 +1000</pubDate>
-<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://spacelauncherapp.com/download/SpaceLauncher.zip" sparkle:version="6" sparkle:shortVersionString="1.0.5" length="4650257" type="application/octet-stream" sparkle:dsaSignature="MCwCFD4afomMx3TLOaT7CcAmHOA4X2d3AhRtkv2rLJGxUTix0O6n0g6v985f/A=="/>
-</item>
-<item>
-<title>1.0.6</title>
-<pubDate>Tue, 09 May 2017 12:46:25 +1000</pubDate>
-<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://spacelauncherapp.com/download/SpaceLauncher.zip" sparkle:version="7" sparkle:shortVersionString="1.0.6" length="4650341" type="application/octet-stream" sparkle:dsaSignature="MCwCFE2qmo7eYyYf2QMLcoLCMuBfTQ2LAhRWhEE20IhvjmjW3lTROd2RMv1juA=="/>
-</item>
-
-
-
-
-
-
 </channel></rss>
