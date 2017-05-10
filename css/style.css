@@ -1,8 +1,9 @@
 @import url(//fonts.googleapis.com/css?family=Inconsolata:400,700|Montserrat:700);
 
-body {
+header,
+main {
   margin: 0 auto;
-  max-width: 50em;
+  max-width: 35.5em;
 }
 
 body {
@@ -27,6 +28,15 @@ h1,
 h2,
 strong {
   color: #333;
+}
+
+h2 {
+  font-size: 1.2em;
+}
+
+h3 {
+  color: #555;
+  font-size: 1em;
 }
 
 code,
@@ -67,10 +77,6 @@ img {
   max-width: 100%;
 }
 
-img#hint {
-  width: 480px;
-}
-
 #logo {
   width: 64px;
   height: 64px;
@@ -86,12 +92,7 @@ img#hint {
   color: #aaa;
 }
 
-h2 {
-  font-size: 1.2em;
-}
-
 #description {
-  font-size: 1.1em;
   margin: 1.5em auto 1em;
 }
 
