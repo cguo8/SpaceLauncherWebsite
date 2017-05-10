@@ -36,7 +36,8 @@ pre {
 
 code {
   padding: 2px 4px;
-  vertical-align: text-bottom;
+/*   vertical-align: text-bottom; */
+  vertical-align: baseline;
 }
 
 pre {
