@@ -91,10 +91,12 @@ h2 {
 
 #description {
   font-size: 1.1em;
+  margin: 1.5em auto 1em;
 }
 
-#system_requirement {
+#action_comment {
   margin-bottom: 23px;
+  padding-left: 0.5em;
   font-size: 12px;
   line-height: 1.2;
   color: #777
@@ -106,4 +108,23 @@ form {
 
 .image_link {
   text-decoration: none;
+}
+
+#actions {
+  padding: 1em;
+}
+
+#download {
+  width: 100%;
+  background-color: #82afed;
+}
+
+#purchase {
+  width: 100%;
+  background-color: black;
+  opacity: 0.6;
+}
+
+#purchase:hover {
+  opacity: 0.7;
 }
