@@ -8,4 +8,14 @@
 </sparkle:releaseNotesLink>
 <enclosure url="https://spacelauncherapp.com/download/SpaceLauncher.zip" sparkle:version="8" sparkle:shortVersionString="1.0" length="4654411" type="application/octet-stream" sparkle:dsaSignature="MC0CFFhofoj7uxN+kLEdj681SWe2ypZ6AhUAmGH/fuF2F+hpIWu7to49h+MO/kU="/>
 </item>
+<item>
+<title>1.0.1</title>
+<pubDate>Wed, 10 May 2017 15:40:23 +1000</pubDate>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<sparkle:releaseNotesLink>
+    https://spacelauncherapp.com/changelog.html
+</sparkle:releaseNotesLink>
+<enclosure url="https://spacelauncherapp.com/download/SpaceLauncher.zip" sparkle:version="10" sparkle:shortVersionString="1.0.1" length="4650085" type="application/octet-stream" sparkle:dsaSignature="MC0CFB2qeavIsl4NMGgqsN4+pt0F3klpAhUAkhUkKEwFrjB0K9xOj/rmdll5oX4="/>
+</item>
+
 </channel></rss>
