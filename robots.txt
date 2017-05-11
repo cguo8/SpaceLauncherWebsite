@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /
+Sitemap: https://spacelauncherapp.com/sitemap.xml
