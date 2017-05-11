@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <link rel="shortcut icon" sizes="16x16 24x24 32x32 48x48 64x64" href="https://spacelauncherapp.com/favicon.ico">
+    <link rel="apple-touch-icon" sizes="57x57" href="https://spacelauncherapp.com/icons/favicon-57.png">
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://spacelauncherapp.com/icons/favicon-57.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://spacelauncherapp.com/icons/favicon-72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://spacelauncherapp.com/icons/favicon-114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://spacelauncherapp.com/icons/favicon-120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://spacelauncherapp.com/icons/favicon-144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://spacelauncherapp.com/icons/favicon-152.png">
+
+    <link rel="preload" href="/css/zoom.css" as="style" onload="this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/css/zoom.css"></noscript>
+
+    <link rel="preload" href="https://unpkg.com/purecss@0.6.2/build/pure-min.css" as="style" onload="this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://unpkg.com/purecss@0.6.2/build/pure-min.css"></noscript>
+
+    <link rel="preload" href="/css/style.css" as="style" onload="this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/css/style.css"></noscript>
+
+    <script>
+    /*! loadCSS. [c]2017 Filament Group, Inc. MIT License */
+    !function(a){"use strict";var b=function(b,c,d){function e(a){return h.body?a():void setTimeout(function(){e(a)})}function f(){i.addEventListener&&i.removeEventListener("load",f),i.media=d||"all"}var g,h=a.document,i=h.createElement("link");if(c)g=c;else{var j=(h.body||h.getElementsByTagName("head")[0]).childNodes;g=j[j.length-1]}var k=h.styleSheets;i.rel="stylesheet",i.href=b,i.media="only x",e(function(){g.parentNode.insertBefore(i,c?g:g.nextSibling)});var l=function(a){for(var b=i.href,c=k.length;c--;)if(k[c].href===b)return a();setTimeout(function(){l(a)})};return i.addEventListener&&i.addEventListener("load",f),i.onloadcssdefined=l,l(f),i};"undefined"!=typeof exports?exports.loadCSS=b:a.loadCSS=b}("undefined"!=typeof global?global:this);
+    /*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
+    !function(a){if(a.loadCSS){var b=loadCSS.relpreload={};if(b.support=function(){try{return a.document.createElement("link").relList.supports("preload")}catch(b){return!1}},b.poly=function(){for(var b=a.document.getElementsByTagName("link"),c=0;c<b.length;c++){var d=b[c];"preload"===d.rel&&"style"===d.getAttribute("as")&&(a.loadCSS(d.href,d,d.getAttribute("media")),d.rel=null)}},!b.support()){b.poly();var c=a.setInterval(b.poly,300);a.addEventListener&&a.addEventListener("load",function(){b.poly(),a.clearInterval(c)}),a.attachEvent&&a.attachEvent("onload",function(){a.clearInterval(c)})}}}(this);
+    </script>
+
+    <title>SpaceLauncher</title>
+  </head>
+
+  <body>
+    <header>
+      <h1>
+        <a class="image_link" href="/">
+          <img id="logo" src="/img/logo.svg"/>
+        </a>
+        SpaceLauncher
+        <span id="for_macos" class="lighttext">for macOS</span>
+      </h1>
+      <p id="description">
+        Hold down spacebar while pressing a key to launch or switch to an app.
+      </p>
+    </header>
+
+    <main>
+    {{content}}
+    </main>
+
+    <footer>
+      <div><a id="support" class="pure-button" href="/support">Support</a></div>
+      <img id="rocket" src="/img/rocket.svg"/>
+      <p>Logo by anbileru adaleru<br>under Noun Project royalty-free license</p>
+      <p>SpaceLauncher by Chen Guo</p>
+      <p>© 2017 guoc</p>
+      <span id="build-revision">
+        {{site.github.build_revision | truncate: 7, ""}}
+      </span>
+    </footer>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+    <script src="js/zoom.js"></script>
+    <script src="js/accordion.js"></script>
+  </body>
+
+</html>
