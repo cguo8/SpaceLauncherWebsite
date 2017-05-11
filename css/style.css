@@ -12,7 +12,7 @@ body {
 
 body {
   line-height: 1.5;
-  padding: 4em 1em 0;
+  padding: 2em 1em 0;
 }
 
 /* h2 {
@@ -94,7 +94,7 @@ img {
 }
 
 #description {
-  margin: 1.5em auto 1em;
+  margin: 2.5em auto 1em;
 }
 
 #action_comment {
@@ -121,7 +121,7 @@ form {
   display: inline-block;
   margin: auto 0.5em;
   width: 12em;
-  font-family: "Helvetica", "Arial", sans-serif;;
+  font-family: "Helvetica", "Arial", sans-serif;
 }
 
 #download {
