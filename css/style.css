@@ -37,6 +37,7 @@ h2 {
 h3 {
   color: #555;
   font-size: 1em;
+  font-weight: normal;
 }
 
 code,
@@ -154,4 +155,18 @@ footer #support {
 footer #rocket {
   margin-top: 1em;
   vertical-align: middle;
+}
+
+li.accordion {
+    transition: 0.4s;
+}
+
+li.accordion.active, li.accordion:hover {
+    background-color: #f5f5f5;
+}
+
+div.panel {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
 }
