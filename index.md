@@ -41,17 +41,17 @@
 </section>
 <section>
   <h2>Setup</h2>
-  <img src="{{ '/img/preferences-screenshot.png?v=' | append: site.github.build_revision | relative_url }}" alt="preferences screenshot" data-action="zoom">
+  <img src="{{ '/img/preferences-screenshot.png?v=' | append: site.github.build_revision | relative_url }}" srcset="{{ '/img/preferences-screenshot@2x.png?v=' | append: site.github.build_revision | relative_url }} 2x" alt="preferences screenshot" data-action="zoom">
 </section>
 <section>
   <h2>I can't memorize these</h2>
   <p>Don't memorize. Just practice. Your fingers can memorize them easily.</p>
   <p>And, SpaceLauncher will show you a hint,</p>
-  <img src="{{ '/img/hint-window-screenshot.png?v=' | append: site.github.build_revision | relative_url }}" alt="hint window screenshot" data-action="zoom">
+  <img src="{{ '/img/hint-window-screenshot.png?v=' | append: site.github.build_revision | relative_url }}" srcset="{{ '/img/hint-window-screenshot@2x.png?v=' | append: site.github.build_revision | relative_url }} 2x" alt="hint window screenshot" data-action="zoom">
   <p>depending on your typed keys after pressing spacebar down.</p>
-  <img src="{{ '/img/hint-window-with-typed-keys-screenshot.png?v=' | append: site.github.build_revision | relative_url }}" alt="hint window screenshot" data-action="zoom">
+  <img src="{{ '/img/hint-window-with-typed-keys-screenshot.png?v=' | append: site.github.build_revision | relative_url }}" srcset="{{ '/img/hint-window-with-typed-keys-screenshot@2x.png?v=' | append: site.github.build_revision | relative_url }} 2x" alt="hint window screenshot" data-action="zoom">
   <p>Moreover, only rarely used actions are highlighted (the keys used recently are gray), so you can find out the action you actually need quickly.</p>
-  <img src="{{ '/img/hint-window-with-some-gray-rows-screenshot.png?v=' | append: site.github.build_revision | relative_url }}" alt="hint window with some gray rows" data-action="zoom">
+  <img src="{{ '/img/hint-window-with-some-gray-rows-screenshot.png?v=' | append: site.github.build_revision | relative_url }}" srcset="{{ '/img/hint-window-with-some-gray-rows-screenshot@2x.png?v=' | append: site.github.build_revision | relative_url }} 2x" alt="hint window with some gray rows" data-action="zoom">
 </section>
 <section>
   <h2>But, it is not suited to everybody.</h2>
