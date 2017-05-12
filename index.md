@@ -41,7 +41,7 @@
 </section>
 <section>
   <h2>Setup</h2>
-  <img src="img/preferences-screenshot.png" alt="preferences screenshot" data-action="zoom">
+  <img src="{{ '/img/preferences-screenshot.png?v=' | append: site.github.build_revision | relative_url }}" alt="preferences screenshot" data-action="zoom">
 </section>
 <section>
   <h2>I can't memorize these</h2>
