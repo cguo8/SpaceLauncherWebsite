@@ -210,6 +210,11 @@
       vertical-align: middle;
     }
 
+    footer #build_version {
+      color: #aaa;
+      font-size: 80%;
+    }
+
     li.accordion {
         transition: 0.4s;
     }
@@ -254,7 +259,7 @@
       <p>Logo by anbileru adaleru<br>under Noun Project royalty-free license</p>
       <p>SpaceLauncher by Chen Guo</p>
       <p>© 2017 guoc</p>
-      <span id="build-revision">
+      <span id="build_version">
         {{site.github.build_revision | truncate: 7, ""}}
       </span>
     </footer>
