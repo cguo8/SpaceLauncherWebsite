@@ -226,7 +226,7 @@
     <header>
       <h1>
         <a class="image_link" href="/">
-          <img id="logo" src="/img/logo.svg"/>
+          <img id="logo" src="{{ '/img/logo.svg?v=' | append: site.github.build_revision | relative_url }}"/>
         </a>
         SpaceLauncher
         <span id="for_macos" class="lighttext">for macOS</span>
@@ -242,7 +242,7 @@
 
     <footer>
       <div><a id="support" class="pure-button" href="/support">Support</a></div>
-      <img id="rocket" src="/img/rocket.svg"/>
+      <img id="rocket" src="{{ '/img/rocket.svg?v=' | append: site.github.build_revision | relative_url }}"/>
       <p>Logo by anbileru adaleru<br>under Noun Project royalty-free license</p>
       <p>SpaceLauncher by Chen Guo</p>
       <p>© 2017 guoc</p>
