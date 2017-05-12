@@ -170,7 +170,8 @@
 
     var scrollTop = $(window).scrollTop()
 
-    var maxScaleFactor = originalFullImageWidth / this._targetImage.width
+//     var maxScaleFactor = originalFullImageWidth / this._targetImage.width
+    var maxScaleFactor = originalFullImageWidth / this._targetImage.width * 1.3 // modified by guoc
 
     var viewportHeight = ($(window).height() - Zoom.OFFSET)
     var viewportWidth  = ($(window).width() - Zoom.OFFSET)
