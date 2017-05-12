@@ -1,3 +1,7 @@
+---
+show_description: true
+---
+
 <section id="example">
   <h2>e.g.</h2>
   <ul>
