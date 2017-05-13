@@ -31,7 +31,7 @@ show_description: true
   </div>
   <div class="action_button">
     <a id="purchase" class="pure-button pure-button-primary" href="https://spacelauncherapp.onfastspring.com/spacelauncher">Buy Now</a>
-    <p id="action_comment">Buy SpaceLauncher for $14.99</p>
+    <p id="action_comment">Buy SpaceLauncher for $4.99</p>
   </div>
 </section>
 <section>
