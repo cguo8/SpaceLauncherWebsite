@@ -218,9 +218,13 @@
       vertical-align: middle;
     }
 
+    footer #logo_credit {
+      font-size: 70%;
+    }
+
     footer #build_version {
       color: #aaa;
-      font-size: 80%;
+      font-size: 70%;
     }
 
     li.accordion {
@@ -269,9 +273,10 @@
     <footer>
       <div><a id="support" class="pure-button" href="/support">Support</a></div>
       <img id="rocket" src="{{ '/img/rocket.svg?v=' | append: site.github.build_revision | relative_url }}"/>
-      <p>Logo by anbileru adaleru<br>under Noun Project royalty-free license</p>
-      <p>SpaceLauncher by Chen Guo</p>
+      <p>Made by Chen Guo in Melbourne</p>
       <p>© 2017 guoc</p>
+      <span id="logo_credit">Logo by anbileru adaleru<br>under Noun Project royalty-free license</span>
+      <br>
       <span id="build_version">
         {{site.github.build_revision | truncate: 7, ""}}
       </span>
