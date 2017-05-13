@@ -16,6 +16,8 @@
       <br>
 
       <button type="submit" class="pure-button pure-button-primary">Send</button>
+
+      <input type="hidden" name="_next" value="/support/thanks.html" />
     </fieldset>
   </form>
 </section>
