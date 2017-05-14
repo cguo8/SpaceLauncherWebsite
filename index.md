@@ -24,14 +24,10 @@ show_description: true
     </ul>
   </ul>
 </section>
-<section id="actions">
+<section>
   <div class="action_button">
-    <a id="download" class="pure-button pure-button-primary" href="/download/SpaceLauncher.zip" download>Download Trial</a>
+    <a id="download" class="pure-button pure-button-primary" href="/download/SpaceLauncher.zip" download>Free Download</a>
     <p id="action_comment">Requires macOS 10.10 or later</p>
-  </div>
-  <div class="action_button">
-    <a id="purchase" class="pure-button pure-button-primary" href="https://spacelauncherapp.onfastspring.com/spacelauncher">Buy Now</a>
-    <p id="action_comment">Buy SpaceLauncher for $4.99</p>
   </div>
 </section>
 <section>
@@ -65,7 +61,7 @@ show_description: true
   <h2>Stop reading, try it.</h2>
   <p>Feel safe to download. The app is signed, and it will not connect the Internet without your permission.</p>
   <div class="action_button">
-    <a id="download" class="pure-button pure-button-primary" href="/download/SpaceLauncher.zip" download>Download Trial</a>
+    <a id="download" class="pure-button pure-button-primary" href="/download/SpaceLauncher.zip" download>Free Download</a>
     <p id="action_comment">Requires macOS 10.10 or later</p>
   </div>
 </section>
@@ -99,6 +95,13 @@ show_description: true
     <div class="panel">
       <p>No, you can not, at least not now.</p>
       <p>I lack confidence in user interface design, so I just chose the native <a target="_blank" href="https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/WindowPanels.html">Translucent Panels</a>. If you think the hint window is really ugly, let me know.</p>
+    </div>
+
+    <li class="accordion">Is SpaceLauncher free?</li>
+    <div class="panel">
+      <p>No, SpaceLauncher is a paid application.</p>
+      <p>You can try SpaceLauncher without limitation forever, but after trials, you should <a href="https://spacelauncherapp.onfastspring.com/spacelauncher">purchase</a> for further use.</p>
+      <p>You can also find my free apps/tools on my <a href="https://github.com/guoc/">GitHub page</a>.</p>
     </div>
 
     <li class="accordion">Are you going to add new features?</li>
