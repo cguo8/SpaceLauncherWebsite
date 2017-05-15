@@ -35,6 +35,26 @@
 </sparkle:releaseNotesLink>
 <enclosure url="https://spacelauncherapp.com/download/SpaceLauncher.zip" sparkle:version="12" sparkle:shortVersionString="1.0.3" length="4663007" type="application/octet-stream" sparkle:dsaSignature="MCwCFF6NjVBHYMFdOWkXMogL0vN0vSE5AhRo+7mv2LQkx2xBikdjwPffazNxbA=="/>
 </item>
+<item>
+<title>1.1</title>
+<pubDate>Mon, 15 May 2017 23:32:54 +1000</pubDate>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<sparkle:releaseNotesLink>
+    https://spacelauncherapp.com/changelog.html
+</sparkle:releaseNotesLink>
+<enclosure url="https://spacelauncherapp.com/download/SpaceLauncher.zip" sparkle:version="16" sparkle:shortVersionString="1.1" length="4695996" type="application/octet-stream" sparkle:dsaSignature="MC0CFHwCfv7X17uP9twLxZDbQJAZZHCQAhUAjpKb2fNdSOGekiQudKu+hbG7n7o="/>
+</item>
+<item>
+<title>1.1</title>
+<pubDate>Tue, 16 May 2017 00:39:54 +1000</pubDate>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<sparkle:releaseNotesLink>
+    https://spacelauncherapp.com/changelog.html
+</sparkle:releaseNotesLink>
+<enclosure url="https://spacelauncherapp.com/download/SpaceLauncher.zip" sparkle:version="17" sparkle:shortVersionString="1.1" length="4700712" type="application/octet-stream" sparkle:dsaSignature="MCwCFHbb0hPliMqBevYpWyACSTvmRJ2UAhQ/R1lSYhgcpPMmPCogsf4JDmYCCg=="/>
+</item>
+
+
 
 
 
