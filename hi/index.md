@@ -16,6 +16,11 @@
 
       <br>
 
+      <label for="name">Name<span class="lighttext"> - Optional</span></label>
+      <input id="name" class="pure-input-1" name="name">
+
+      <br>
+
       <label for="option-like" class="pure-checkbox">
         <input id="option-like" type="checkbox" name="likeit">
         Just let you know I like SpaceLauncher.
@@ -26,6 +31,7 @@
       <button type="submit" class="pure-button pure-button-primary">Send</button>
 
       <input type="hidden" name="_next" value="/hi/thanks.html" />
+      <input type="hidden" name="_subject" value="Hi, SpaceLauncher" />
     </fieldset>
   </form>
 </section>
