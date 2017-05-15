@@ -15,9 +15,15 @@
 
       <br>
 
+      <label for="name">Name</label>
+      <input id="name" class="pure-input-1" name="name" required>
+
+      <br>
+
       <button type="submit" class="pure-button pure-button-primary">Send</button>
 
       <input type="hidden" name="_next" value="/support/thanks.html" />
+      <input type="hidden" name="_subject" value="SpaceLauncher Support" />
     </fieldset>
   </form>
 </section>
