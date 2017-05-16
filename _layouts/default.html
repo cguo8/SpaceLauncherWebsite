@@ -216,6 +216,12 @@
       vertical-align: middle;
     }
 
+    footer #changelog {
+      color: #666;
+      font-size: 80%;
+      text-decoration: none;
+    }
+
     footer #logo_credit {
       font-size: 70%;
     }
@@ -273,6 +279,7 @@
       <img id="rocket" src="{{ '/img/rocket.svg?v=' | append: site.github.build_revision | relative_url }}"/>
       <p>Made by Chen Guo in Melbourne</p>
       <p>© 2017 guoc</p>
+      <div><a id="changelog" href="/changelog.html">Changelog</a></div>
       <span id="logo_credit">Logo by anbileru adaleru<br>under Noun Project royalty-free license</span>
       <br>
       <span id="build_version">
