@@ -80,6 +80,16 @@
 </sparkle:releaseNotesLink>
 <enclosure url="https://spacelauncherapp.com/download/beta/SpaceLauncher.zip" sparkle:version="21" sparkle:shortVersionString="1.2b1" length="4710546" type="application/octet-stream" sparkle:dsaSignature="MCwCFGnDZ0B5jkMb+Zsm18FH8H4MY/fVAhQ14WRVZo6VV/8ZDFi2M5h2Yk/F2w=="/>
 </item>
+<item>
+<title>1.2b1</title>
+<pubDate>Wed, 17 May 2017 17:08:39 +1000</pubDate>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<sparkle:releaseNotesLink>
+    https://spacelauncherapp.com/beta_changelog.html
+</sparkle:releaseNotesLink>
+<enclosure url="https://spacelauncherapp.com/download/beta/SpaceLauncher.zip" sparkle:version="22" sparkle:shortVersionString="1.2b1" length="4706169" type="application/octet-stream" sparkle:dsaSignature="MCwCFBIktj1/jgO7ds0GjbOzHrI6/TmVAhR7TfhaK4YvcuYMo96R/eBeBBQWlg=="/>
+</item>
+
 
 
 
