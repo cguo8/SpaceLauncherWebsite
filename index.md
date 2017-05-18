@@ -24,12 +24,20 @@ show_description: true
     </ul>
   </ul>
 </section>
+
 <section>
   <div class="action_button">
     <a id="download" class="pure-button pure-button-primary" href="/download/SpaceLauncher.zip" download>Download</a>
     <p id="action_comment">Requires macOS 10.10 or later</p>
   </div>
 </section>
+
+<section>
+  <a target="_blank" href="http://mac.softpedia.com/get/Utilities/SpaceLauncher.shtml#status">
+    <img id="sp100clean" src="{{ '/img/sp100clean.png?v=' | append: site.github.build_revision | relative_url }}" srcset="{{ '/img/sp100clean@2x.png?v=' | append: site.github.build_revision | relative_url }} 2x" alt="100% CLEAN award granted by Softpedia">
+  </a>
+</section>
+
 <section>
   <h2>Why spacebar?</h2>
   <p>It's bigger.</p>
