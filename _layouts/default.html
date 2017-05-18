@@ -16,6 +16,19 @@
     <link rel="apple-touch-icon" sizes="144x144" href="https://spacelauncherapp.com/icons/favicon-144.png">
     <link rel="apple-touch-icon" sizes="152x152" href="https://spacelauncherapp.com/icons/favicon-152.png">
 
+    <script>
+    window.onload = function () {
+      var hash = window.location.hash.substr(1);
+      if (hash) {
+        var elem = document.getElementById(hash);
+        if (elem) {
+          elem.scrollIntoView();
+          elem.click();
+        }
+      }
+    }
+    </script>
+
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
