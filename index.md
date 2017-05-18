@@ -75,8 +75,14 @@ show_description: true
       but if you really need it, hold shift and spacebar.</p>
     </div>
 
+    <li id="option_SpaceRecognitionDelayAfterLastKey" class="accordion">What does the option "Disable SpaceLauncher for 0.2 seconds after your last typing." mean? Why do I need it?</li>
+    <div class="panel">
+      <p>You might notice that, in most case, you type a space quickly after finishing a word. This space shouldn't be treated as SpaceLauncher's hotkey. This option means, if you type a space in 0.2 seconds after your last keystroke, the space will be ignored by SpaceLauncher.</p>
+    </div>
+
     <li class="accordion">What does the option "After space key down, ignore pre-defined keys within 0.2 seconds" mean? Why do I need it?</li>
     <div class="panel">
+      <p>If the above option "Disable SpaceLauncher for 0.2 seconds after your last typing." works for you, just ignore this option.</p>
       <p>If you often trigger SpaceLauncher actions when inputting text, that is because you type fast so that the letter after space go before releasing spacebar. This option gives a delay. After you pressing spacebar, SpaceLauncher waits for a delay, then start to recognize keys for actions.</p>
     </div>
 
