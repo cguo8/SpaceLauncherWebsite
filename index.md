@@ -61,10 +61,6 @@ show_description: true
   <p>Moreover, only rarely used actions are highlighted (the keys used recently are gray), so you can find out the action you actually need quickly.</p>
   <img src="{{ '/img/hint-window-with-some-gray-rows-screenshot.png?v=' | append: site.github.build_revision | relative_url }}" srcset="{{ '/img/hint-window-with-some-gray-rows-screenshot@2x.png?v=' | append: site.github.build_revision | relative_url }} 2x" alt="hint window with some gray rows" data-action="zoom">
 </section>
-<section>
-  <h2>But, it is not suited to everybody.</h2>
-  <p>It depends on your way of typing keys. So ...</p>
-</section>
 <section id="try">
   <h2>Stop reading, try it.</h2>
   <p>Feel safe to download. The app is signed, and it will not connect the Internet without your permission.</p>
