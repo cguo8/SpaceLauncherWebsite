@@ -81,11 +81,16 @@ show_description: true
     <div class="panel">
       <p>It's uncommon,<br>
       but if you really need it, hold shift and spacebar.</p>
+      <p>From SpaceLauncher 1.2, you can type spacebar, then press and hold it quickly (by defaults in 0.2 seconds, you can set it in the option "Disable SpaceLauncher for 0.2 seconds after your last typing").
+      </p>
     </div>
 
     <li id="option_SpaceRecognitionDelayAfterLastKey" class="accordion">What does the option "Disable SpaceLauncher for 0.2 seconds after your last typing." mean? Why do I need it?</li>
     <div class="panel">
-      <p>You might notice that, in most case, you type a space quickly after finishing a word. This space shouldn't be treated as SpaceLauncher's hotkey. This option means, if you type a space in 0.2 seconds after your last keystroke, the space will be ignored by SpaceLauncher.</p>
+      <p>
+        (SpaceLauncher 1.3 +)<br>
+        You might notice that, in most case, you type a space quickly after finishing a word. This space shouldn't be treated as SpaceLauncher's hotkey. This option means, if you type a space in 0.2 seconds after your last keystroke, the space will be ignored by SpaceLauncher.
+      </p>
     </div>
 
     <li id="option_RecognitionDelayAfterSpaceKeyDown" class="accordion">What does the option "After space key down, ignore pre-defined keys within 0.2 seconds" mean? Why do I need it?</li>
