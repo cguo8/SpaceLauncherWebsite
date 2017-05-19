@@ -4,6 +4,10 @@
 
   file:///Applications/Launchpad.app
 
+- Mission Control
+
+  file:///Applications/Mission%20Control.app
+
 - Siri
 
   file:///System/Library/CoreServices/Siri.app
