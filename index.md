@@ -141,5 +141,19 @@ show_description: true
       <p>In Script Editor, type <code>say "you are awesome"</code>, save as Application.<br>In SpaceLauncher, add an action to open URL, choose the AppleScript file.</p>
     </div>
 
+    <li class="accordion">I see the menu icon is changing, what's happening?</li>
+    <div class="panel">
+      <p>
+        (SpaceLauncher 1.3 +)<br>
+        The icon indicates the state of SpaceLauncher.
+        <ul>
+          <li><img id="menu_icon" src="{{ '/img/menu-icon.svg?v=' | append: site.github.build_revision | relative_url }}"/>SpaceLauncher is ready, you can press spacebar.</li>
+          <li><img id="menu_icon" src="{{ '/img/menu-icon-ready.svg?v=' | append: site.github.build_revision | relative_url }}"/>You are holding spacebar for SpaceLauncher. You can press a pre-defined key now.</li>
+          <li><img id="menu_icon" src="{{ '/img/menu-icon-typing.svg?v=' | append: site.github.build_revision | relative_url }}"/>You are typing. SpaceLauncher ignores typed spacebar.</li>
+        </ul>
+        I try to make the change unobtrusive. You also can uncheck "Show icon in menu bar" in preferences to hide the icon.
+      </p>
+    </div>
+
   </ul>
 </section>
