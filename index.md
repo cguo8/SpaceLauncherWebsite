@@ -32,7 +32,13 @@ show_description: true
   </div>
 </section>
 
-<iframe src="https://player.vimeo.com/video/218254314" width="568" height="355" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<!-- <iframe src="https://player.vimeo.com/video/218254314" width="568" height="355" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
+
+<video width="568" controls preload poster='http://res.cloudinary.com/guoc/video/upload/so_1.5/v1495320863/spacelauncher-introduction.png'>
+    <source src='http://res.cloudinary.com/guoc/video/upload/v1495320863/spacelauncher-introduction.webm' type='video/webm'>
+    <source src='http://res.cloudinary.com/guoc/video/upload/v1495320863/spacelauncher-introduction.mp4' type='video/mp4'>
+    <source src='http://res.cloudinary.com/guoc/video/upload/v1495320863/spacelauncher-introduction.ogv' type='video/ogg'>
+</video>
 
 <!-- <section>
   <a target="_blank" href="http://mac.softpedia.com/get/Utilities/SpaceLauncher.shtml#status">
