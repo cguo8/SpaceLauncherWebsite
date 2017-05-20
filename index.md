@@ -32,6 +32,8 @@ show_description: true
   </div>
 </section>
 
+<iframe src="https://player.vimeo.com/video/218254314" width="568" height="355" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 <!-- <section>
   <a target="_blank" href="http://mac.softpedia.com/get/Utilities/SpaceLauncher.shtml#status">
     <img id="sp100clean_icon" src="{{ '/img/sp100clean.png?v=' | append: site.github.build_revision | relative_url }}" srcset="{{ '/img/sp100clean@2x.png?v=' | append: site.github.build_revision | relative_url }} 2x" alt="100% CLEAN award granted by Softpedia">
