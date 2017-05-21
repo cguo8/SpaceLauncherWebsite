@@ -38,6 +38,7 @@ show_description: true
     <source src='http://res.cloudinary.com/guoc/video/upload/v1495320863/spacelauncher-introduction.webm' type='video/webm'>
     <source src='http://res.cloudinary.com/guoc/video/upload/v1495320863/spacelauncher-introduction.mp4' type='video/mp4'>
     <source src='http://res.cloudinary.com/guoc/video/upload/c_scale,w_0.5/v1495320863/spacelauncher-introduction.mp4' type='video/mp4'>
+    <source src='http://res.cloudinary.com/guoc/video/upload/c_scale,w_480/v1495320863/spacelauncher-introduction.mp4' type='video/mp4'>
     <source src='http://res.cloudinary.com/guoc/video/upload/v1495320863/spacelauncher-introduction.ogv' type='video/ogg'>
 </video>
 
