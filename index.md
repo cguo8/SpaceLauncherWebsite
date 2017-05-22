@@ -35,11 +35,11 @@ show_description: true
 <!-- <iframe src="https://player.vimeo.com/video/218254314" width="568" height="355" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
 
 <video width="100%" controls preload poster='/img/spacelauncher-introduction@2x.png'>
-    <source src='http://d.pr/f/cKtnm+' type='video/webm'>
-    <source src='http://d.pr/v/TpCk9+' type='video/mp4'>
-    <source src='http://d.pr/v/fh0ny+' type='video/mp4'> <!-- 0.5 -->
-    <source src='http://d.pr/v/D06Z2+' type='video/mp4'> <!-- 480 -->
-    <source src='http://d.pr/f/MLxKa+' type='video/ogg'>
+    <source src='/img/spacelauncher-introduction.webm' type='video/webm'>
+    <source src='/img/spacelauncher-introduction.mp4' type='video/mp4'>
+    <source src='/img/spacelauncher-introduction-0_5.mp4' type='video/mp4'>
+    <source src='/img/spacelauncher-introduction-480.mp4' type='video/mp4'>
+    <source src='/img/spacelauncher-introduction.ogv' type='video/ogg'>
 </video>
 
 <!-- <section>
