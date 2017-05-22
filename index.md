@@ -34,7 +34,7 @@ show_description: true
 
 <!-- <iframe src="https://player.vimeo.com/video/218254314" width="568" height="355" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
 
-<video width="100%" controls preload poster='http://d.pr/i/Su3Ee+'>
+<video width="100%" controls preload poster='/img/spacelauncher-introduction@2x.png'>
     <source src='http://d.pr/f/cKtnm+' type='video/webm'>
     <source src='http://d.pr/v/TpCk9+' type='video/mp4'>
     <source src='http://d.pr/v/fh0ny+' type='video/mp4'> <!-- 0.5 -->
