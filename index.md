@@ -34,12 +34,12 @@ show_description: true
 
 <!-- <iframe src="https://player.vimeo.com/video/218254314" width="568" height="355" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
 
-<video width="100%" controls preload poster='http://res.cloudinary.com/guoc/video/upload/so_1.5/v1495320863/spacelauncher-introduction.png'>
-    <source src='http://res.cloudinary.com/guoc/video/upload/v1495320863/spacelauncher-introduction.webm' type='video/webm'>
-    <source src='http://res.cloudinary.com/guoc/video/upload/v1495320863/spacelauncher-introduction.mp4' type='video/mp4'>
-    <source src='http://res.cloudinary.com/guoc/video/upload/c_scale,w_0.5/v1495320863/spacelauncher-introduction.mp4' type='video/mp4'>
-    <source src='http://res.cloudinary.com/guoc/video/upload/c_scale,w_480/v1495320863/spacelauncher-introduction.mp4' type='video/mp4'>
-    <source src='http://res.cloudinary.com/guoc/video/upload/v1495320863/spacelauncher-introduction.ogv' type='video/ogg'>
+<video width="100%" controls preload poster='http://d.pr/i/Su3Ee+'>
+    <source src='http://d.pr/f/cKtnm+' type='video/webm'>
+    <source src='http://d.pr/v/TpCk9+' type='video/mp4'>
+    <source src='http://d.pr/v/fh0ny+' type='video/mp4'> <!-- 0.5 -->
+    <source src='http://d.pr/v/D06Z2+' type='video/mp4'> <!-- 480 -->
+    <source src='http://d.pr/f/MLxKa+' type='video/ogg'>
 </video>
 
 <!-- <section>
