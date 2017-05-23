@@ -134,6 +134,7 @@ show_description: true
       <p>Yes.</p>
       <p>There are lots of features I wanted to add when I make SpaceLauncher. I had to stop myself to add new features before release. e.g.</p>
       <ul>
+        <li>Support synchronization and/or import/export preferences.</li>
         <li>Support more actions</li>
         <li>Support app-specific actions</li>
         <li>Show current hotkeys in menu bar extras.</li>
