@@ -79,17 +79,6 @@ show_description: true
     <p id="action_comment">Requires macOS 10.10 or later</p>
   </div>
 </section>
-<section id="external_links">
-<a target="_blank" href="http://mac.softpedia.com/get/Utilities/SpaceLauncher.shtml">
-  <img class="external_logo" src="{{ '/img/softpedia-logo.png?v=' | append: site.github.build_revision | relative_url }}" srcset="{{ '/img/softpedia-logo@2x.png?v=' | append: site.github.build_revision | relative_url }} 2x" alt="Reviewed by Softpedia">
-</a>
-<a target="_blank" href="https://www.producthunt.com/posts/spacelauncher-for-mac">
-  <img class="external_logo" src="{{ '/img/producthunt-logo.png?v=' | append: site.github.build_revision | relative_url }}" srcset="{{ '/img/producthunt-logo@2x.png?v=' | append: site.github.build_revision | relative_url }} 2x" alt="Hunted by ProductHunt">
-</a>
-<a target="_blank" href="https://www.waerfa.com/spacelauncher-review">
-  <img id="waerfa_logo" class="external_logo" src="{{ '/img/waerfa-logo.png?v=' | append: site.github.build_revision | relative_url }}" srcset="{{ '/img/waerfa-logo@2x.png?v=' | append: site.github.build_revision | relative_url }} 2x" alt="Reviewed by waerfa.com">
-</a>
-</section>
 <section id="faq">
   <h2>Questions and Answers</h2>
   <ul>
@@ -178,4 +167,18 @@ show_description: true
     </div>
 
   </ul>
+</section>
+<section id="external_links">
+<a target="_blank" href="https://www.producthunt.com/posts/spacelauncher-for-mac">
+  <img class="external_logo" src="{{ '/img/producthunt-logo.png?v=' | append: site.github.build_revision | relative_url }}" srcset="{{ '/img/producthunt-logo@2x.png?v=' | append: site.github.build_revision | relative_url }} 2x" alt="Hunted by ProductHunt">
+</a>
+<a target="_blank" href="http://mac.softpedia.com/get/Utilities/SpaceLauncher.shtml">
+  <img class="external_logo" src="{{ '/img/softpedia-logo.png?v=' | append: site.github.build_revision | relative_url }}" srcset="{{ '/img/softpedia-logo@2x.png?v=' | append: site.github.build_revision | relative_url }} 2x" alt="Reviewed by Softpedia">
+</a>
+<a target="_blank" href="http://mac360.com/2017/05/goodbye-commandtab-hello-spacebar/">
+  <img class="external_logo" src="{{ '/img/mac360-logo.png?v=' | append: site.github.build_revision | relative_url }}" srcset="{{ '/img/mac360-logo@2x.png?v=' | append: site.github.build_revision | relative_url }} 2x" alt="Reviewed by Mac360">
+</a>
+<a target="_blank" href="https://www.waerfa.com/spacelauncher-review">
+  <img class="external_logo" src="{{ '/img/waerfa-logo.png?v=' | append: site.github.build_revision | relative_url }}" srcset="{{ '/img/waerfa-logo@2x.png?v=' | append: site.github.build_revision | relative_url }} 2x" alt="Reviewed by waerfa.com">
+</a>
 </section>
