@@ -152,7 +152,7 @@ show_description: true
       <p>In Script Editor, type <code>say "you are awesome"</code>, save as Application.<br>In SpaceLauncher, add an action to open URL, choose the AppleScript file.</p>
     </div>
 
-    <li class="accordion">I see the menu icon is changing, what's happening?</li>
+    <li id="menu_icon_indicator" class="accordion">I see the menu icon is changing, what's happening?</li>
     <div class="panel">
       <p>
         (SpaceLauncher 1.3 +)<br>
