@@ -181,4 +181,7 @@ show_description: true
 <a target="_blank" href="https://www.waerfa.com/spacelauncher-review">
   <img class="external_logo" src="{{ '/img/waerfa-logo.png?v=' | append: site.github.build_revision | relative_url }}" srcset="{{ '/img/waerfa-logo@2x.png?v=' | append: site.github.build_revision | relative_url }} 2x" alt="Reviewed by waerfa.com">
 </a>
+<a target="_blank" href="https://sspai.com/post/39597">
+  <img class="external_logo" src="{{ '/img/sspai-logo.png?v=' | append: site.github.build_revision | relative_url }}" srcset="{{ '/img/sspai-logo@2x.png?v=' | append: site.github.build_revision | relative_url }} 2x" alt="Review on sspai.com">
+</a>
 </section>
