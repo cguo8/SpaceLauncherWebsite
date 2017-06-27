@@ -184,4 +184,7 @@ show_description: true
 <a target="_blank" href="https://sspai.com/post/39597">
   <img class="external_logo" src="{{ '/img/sspai-logo.png?v=' | append: site.github.build_revision | relative_url }}" srcset="{{ '/img/sspai-logo@2x.png?v=' | append: site.github.build_revision | relative_url }} 2x" alt="Review on sspai.com">
 </a>
+<a target="_blank" href="http://app.so">
+  <img style="max-height:2.5em" class="external_logo" src="{{ '/img/appso-logo.png?v=' | append: site.github.build_revision | relative_url }}" srcset="{{ '/img/appso-logo@2x.png?v=' | append: site.github.build_revision | relative_url }} 2x" alt="Reviewed by AppSolution">
+</a>
 </section>
