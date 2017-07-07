@@ -149,7 +149,7 @@ show_description: true
 
     <li class="accordion">How to launch an AppleScript to say "you are awesome"</li>
     <div class="panel">
-      <p>In Script Editor, type <code>say "you are awesome"</code>, save as Application.<br>In SpaceLauncher, add an action to open URL, choose the AppleScript file.</p>
+      <p>In Script Editor, type <code>say "you are awesome"</code>, save as Application or Script.<br>In SpaceLauncher, add an action to open URL, choose the AppleScript file.</p>
     </div>
 
     <li id="menu_icon_indicator" class="accordion">I see the menu icon is changing, what's happening?</li>
