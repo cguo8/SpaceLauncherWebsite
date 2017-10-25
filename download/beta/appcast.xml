@@ -179,6 +179,16 @@ https://spacelauncherapp.com/beta_changelog.html
 </sparkle:releaseNotesLink>
 <enclosure url="https://spacelauncherapp.com/download/beta/SpaceLauncher.zip" sparkle:version="55" sparkle:shortVersionString="1.4.6" length="4741653" type="application/octet-stream" sparkle:dsaSignature="MC0CFDztbgXIZNsdEqm0L/X5IUOmh0xFAhUAhk+rdwKXco+Bp6PLudXlXDyJ6S0="/>
 </item>
+<item>
+<title>1.4.8</title>
+<pubDate>Sun, 22 Oct 2017 11:35:41 +1100</pubDate>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<sparkle:releaseNotesLink>
+https://spacelauncherapp.com/beta_changelog.html
+</sparkle:releaseNotesLink>
+<enclosure url="https://spacelauncherapp.com/download/beta/SpaceLauncher.zip" sparkle:version="57" sparkle:shortVersionString="1.4.8" length="4742821" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCEww7F7xGsvjo/bLuRrhILfYHYZgIVAJeehSQ2xtr07/ZdgUDwRDvapRFb"/>
+</item>
+
 
 
 
