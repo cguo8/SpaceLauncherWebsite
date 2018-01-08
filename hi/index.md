@@ -25,7 +25,9 @@
         <input id="option-like" type="checkbox" name="likeit">
         Just let you know I like SpaceLauncher.
       </label>
+      <small>Rate SpaceLauncher on <a target="_blank" href="https://www.producthunt.com/posts/spacelauncher-for-mac">Product Hunt</a> or <a target="_blank" href="https://www.macupdate.com/app/mac/59385/spacelauncher">MacUpdate</a>.</small>
 
+      <br>
       <br>
 
       <button type="submit" class="pure-button pure-button-primary">Send</button>
