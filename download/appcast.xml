@@ -170,6 +170,16 @@
 </sparkle:releaseNotesLink>
 <enclosure url="https://spacelauncherapp.com/download/SpaceLauncher.zip" sparkle:version="81" sparkle:shortVersionString="1.4.12" length="6828745" type="application/octet-stream" sparkle:dsaSignature="MCwCFBAunkeO+mQgFfB1SYf9R8SFy5L+AhRYE1afwXGVPcG37C4DUpORVq2XmA=="/>
 </item>
+<item>
+<title>1.4.13</title>
+<pubDate>Tue, 09 Jan 2018 11:03:32 +1100</pubDate>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<sparkle:releaseNotesLink>
+    https://spacelauncherapp.com/changelog.html
+</sparkle:releaseNotesLink>
+<enclosure url="https://spacelauncherapp.com/download/SpaceLauncher.zip" sparkle:version="85" sparkle:shortVersionString="1.4.13" length="6790737" type="application/octet-stream" sparkle:dsaSignature="MCwCFDjin1/pvpMKX9s5N5YrMj202vUWAhQyqqyH0LfDFkOPZpD25u9HmQcnLw=="/>
+</item>
+
 
 
 
