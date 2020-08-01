@@ -248,6 +248,16 @@ https://spacelauncherapp.com/beta_changelog.html
 </sparkle:releaseNotesLink>
 <enclosure url="https://spacelauncherapp.com/download/beta/SpaceLauncher.zip" sparkle:version="85" sparkle:shortVersionString="1.4.13" length="6790737" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCLdlwsxN2j48EF1/gfE2yGWOcgzAIUQZwITRmpemfF42QwurM4V6MWd7E="/>
 </item>
+<item>
+<title>1.5</title>
+<pubDate>Thu, 30 Jul 2020 22:49:27 +0800</pubDate>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<sparkle:releaseNotesLink>
+https://spacelauncherapp.com/beta_changelog.html
+</sparkle:releaseNotesLink>
+<enclosure url="https://spacelauncherapp.com/download/beta/SpaceLauncher.zip" sparkle:version="86" sparkle:shortVersionString="1.5" length="6270912" type="application/octet-stream" sparkle:dsaSignature="MC0CFGPprcZci4IFnVd/WNHGV/OZfie5AhUAkYejeP6J9F3GUPZXqSzZDoz1jVY="/>
+</item>
+
 
 
 
